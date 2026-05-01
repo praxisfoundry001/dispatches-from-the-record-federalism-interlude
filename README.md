@@ -32,6 +32,6 @@ It also belongs with the Constitutional Physiology and Constitutional Civic Fiel
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.19934390
 
 PDF available via DOI link once published.
